@@ -20,6 +20,11 @@ of this application is to test one’s skill on certain topics and make the lear
       answers after he/she has completed the quiz.
      -Admins from affiliated institutions may host certain quiz that will be private for the users from those
       institutions only thus becoming an online quiz holding platform for different institutions.
-     -
-     -
-     -
+     
+     
+### 2.Problem Discussion:
+     -Users can post about their problems and questions about certain topics.
+     -Other users can choose to reply to the questions asked.
+     -Users can vote for or against the posted replies and thus others can identify the replies with the most
+      "upvotes" as the best answers.
+     
