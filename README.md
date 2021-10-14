@@ -11,3 +11,6 @@ that, this web application also has a section dedicated to problem discussion an
 stuck on a problem when learning something new. For tackling those situations, one can post about his/her
 problem on the platform where other users can reply to those problems/questions. Overall, the main objective
 of this application is to test one’s skill on certain topics and make the learning procedure faster and easier.
+
+## Features
+### 1.Quiz System:
