@@ -27,4 +27,22 @@ of this application is to test one’s skill on certain topics and make the lear
      -Other users can choose to reply to the questions asked.
      -Users can vote for or against the posted replies and thus others can identify the replies with the most
       "upvotes" as the best answers.
+      
+      
+## Entity-Relationship Diagram:
+The following entities and relationships may be considered for designing the database of the project.
+
+### 1.Entities and their attributes
+There are a total of 10 entities:
+1. admin
+2. quiz
+3. question_answer
+4. topics
+5. completed_quiz
+6. user_answers
+7. posts
+8. replies
+9. user
+10. votes
+
      
