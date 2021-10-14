@@ -3,7 +3,7 @@
 This is a web application designed to host quiz. The quiz can be based on any topic and the user can hone
 his/her skill on the topic he/she is interested in. Besides, it contains a discussion platform for discussing the topics upon which the quiz are held.
 
-## Objective
+## Objectives
 This web application aims to be a platform for testing out one’s skills. By participating in the quiz designed
 by experts, the user can figure out what he knows and what he needs to learn further about a certain topic.
 Regularly participating in the quiz can bring improvements in one’s learning path of a topic/speciality. Besides
@@ -13,7 +13,7 @@ problem on the platform where other users can reply to those problems/questions.
 of this application is to test one’s skill on certain topics and make the learning procedure faster and easier.
 
 ## Features:
-### 1.Quiz System:
+### 1. Quiz System:
      -A registered user can take part in a quiz by filtering out certain topics.
      -A registered admin can set up and prepare quiz with whatever multiple choice answers he/she likes.
      -A user can get to see the mark obtained in a certain quiz. Also, the user can get to see the correct
@@ -22,7 +22,7 @@ of this application is to test one’s skill on certain topics and make the lear
       institutions only thus becoming an online quiz holding platform for different institutions.
      
      
-### 2.Problem Discussion:
+### 2. Problem Discussion:
      -Users can post about their problems and questions about certain topics.
      -Other users can choose to reply to the questions asked.
      -Users can vote for or against the posted replies and thus others can identify the replies with the most
@@ -58,5 +58,21 @@ The relations among the entities can be defined by:
 9. "Have": The posts have replies to them.
 10. "Has": A reply has votes for or against it.
 
+
+
+
  ## Conclusion
  Testing ourselves is one of the most important aspects of learning anything. It is even better if we can find other people with the same interest and have discussions with them. One can achieve that by using this platform and hope to get better at what he/she is learning.
+ 
+ ## Contributors
+ ### Hasnath Jami Chowdhury
+   1. Responsive UI design for the full project
+   2. Registration System.
+   3. Discussion/Problem Sharing (Q/A) System (Categorized), Voting System.
+   
+ ### Anas Mohammad Anwar
+   1. Responsive UI design for the extra part.
+   2. Quiz System (Categorized).
+   3. User's Quiz History System.
+ 
+ 
