@@ -32,7 +32,7 @@ of this application is to test one’s skill on certain topics and make the lear
 ## Entity-Relationship Diagram:
 The following entities and relationships may be considered for designing the database of the project.
 
-### 1.Entities and their attributes
+### 1. Entities and their attributes
 There are a total of 10 entities:
 1. admin
 2. quiz
@@ -43,6 +43,6 @@ There are a total of 10 entities:
 7. posts
 8. replies
 9. user
-10. votes
+ 10. votes
 
      
