@@ -58,4 +58,5 @@ The relations among the entities can be defined by:
 9. "Have": The posts have replies to them.
 10. "Has": A reply has votes for or against it.
 
-     
+ ## Conclusion
+ Testing ourselves is one of the most important aspects of learning anything. It is even better if we can find other people with the same interest and have discussions with them. One can achieve that by using this platform and hope to get better at what he/she is learning.
