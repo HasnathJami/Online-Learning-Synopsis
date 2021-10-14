@@ -13,4 +13,13 @@ problem on the platform where other users can reply to those problems/questions.
 of this application is to test one’s skill on certain topics and make the learning procedure faster and easier.
 
 ## Features
-### 1.Quiz System:
+### 1.Quiz System: A registered user can take part in a quiz by filtering out certain topics.
+     -A registered user can take part in a quiz by filtering out certain topics.
+     -A registered admin can set up and prepare quiz with whatever multiple choice answers he/she likes.
+     -A user can get to see the mark obtained in a certain quiz. Also, the user can get to see the correct
+      answers after he/she has completed the quiz.
+     -Admins from affiliated institutions may host certain quiz that will be private for the users from those
+      institutions only thus becoming an online quiz holding platform for different institutions.
+     -
+     -
+     -
