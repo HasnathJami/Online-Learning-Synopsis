@@ -43,6 +43,19 @@ There are a total of 10 entities:
 7. posts
 8. replies
 9. user
- 10. votes
+10. votes
+
+### 2. Relationships
+The relations among the entities can be defined by:
+1. "Hosts": An admin can host and prepare a quiz.
+2. "Has": Each quiz has its respective questions and answers.
+3. "Checked Against": The users’ answers are checked against the correct answer for each question.
+4. "On": Each quiz is set on certain topic.
+5. "On": Each post is posted on certain topic.
+6. "Participated In": A user has participated in a quiz.
+7. "Has": A user has posted a post.
+8. "Has": A user has posted a reply.
+9. "Have": The posts have replies to them.
+10. "Has": A reply has votes for or against it.
 
      
