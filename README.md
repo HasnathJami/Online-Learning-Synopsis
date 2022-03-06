@@ -28,38 +28,6 @@ of this application is to test one’s skill on certain topics and make the lear
      -Users can vote for or against the posted replies and thus others can identify the replies with the most
       "upvotes" as the best answers.
       
-      
-## Entity-Relationship Diagram:
-The following entities and relationships may be considered for designing the database of the project.
-
-### 1. Entities and their attributes
-There are a total of 10 entities:
-1. admin
-2. quiz
-3. question_answer
-4. topics
-5. completed_quiz
-6. user_answers
-7. posts
-8. replies
-9. user
-10. votes
-
-### 2. Relationships
-The relations among the entities can be defined by:
-1. "Hosts": An admin can host and prepare a quiz.
-2. "Has": Each quiz has its respective questions and answers.
-3. "Checked Against": The users’ answers are checked against the correct answer for each question.
-4. "On": Each quiz is set on certain topic.
-5. "On": Each post is posted on certain topic.
-6. "Participated In": A user has participated in a quiz.
-7. "Has": A user has posted a post.
-8. "Has": A user has posted a reply.
-9. "Have": The posts have replies to them.
-10. "Has": A reply has votes for or against it.
-
-
-
 
  ## Conclusion
  Testing ourselves is one of the most important aspects of learning anything. It is even better if we can find other people with the same interest and have discussions with them. One can achieve that by using this platform and hope to get better at what he/she is learning.
