@@ -38,7 +38,7 @@ of this application is to test one’s skill on certain topics and make the lear
    2. Registration System.
    3. Discussion/Problem Sharing (Q/A) System (Categorized), Voting System.
    
- ### Anas Mohammad Anwar
+ ### [Anas Mohammad Anwar](https://github.com/HasnathJami/Online-Learning-Synopsis/edit/main/README.md)
    1. Responsive UI design for the extra part.
    2. Quiz System (Categorized).
    3. User's Quiz History System.
