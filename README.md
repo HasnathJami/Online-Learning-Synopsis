@@ -40,7 +40,7 @@ of this application is to test one’s skill on certain topics and make the lear
 <img src="./Screenshots/9.png" width="1000" height="600" title="Welcome Screen" />  <img src="./Screenshots/10.png" width="1000" height="600" title="Home Screen" />
 <img src="./Screenshots/11.png" width="1000" height="600" title="Add Notes Screen" />  <img src="./Screenshots/12.png" width="1000" height="600" title="Update and View Notes Screen" />
 
-<img src="./Screenshots/13.png" width="1000" height="600" title="Welcome Screen" />  <img src="./Screenshots/14.png" width="1000" height="600" title="Home Screen" />
+<img src="./Screenshots/13.png" width="1000" height="600" title="Welcome Screen" />
 
 
 
