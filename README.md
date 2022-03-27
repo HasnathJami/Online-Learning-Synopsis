@@ -42,18 +42,17 @@ of this application is to test one’s skill on certain topics and make the lear
 ### Creating Quiz (Admin Panel)
 <img src="./Screenshots/11.png" width="800" height="500" title="Add Notes Screen" />  <img src="./Screenshots/12.png" width="800" height="500" title="Update and View Notes Screen" />
 
-##3 Participating in The Quiz (User Panel)
+### Participating in The Quiz (User Panel)
 <img src="./Screenshots/13.png" width="800" height="500" title="Welcome Screen" />
 
-
-
-
-
 <img src="./Screenshots/5.png" width="800" height="500" title="Welcome Screen" />  <img src="./Screenshots/6.png" width="800" height="500" title="Home Screen" />
-<img src="./Screenshots/7.png" width="800" height="500" title="Add Notes Screen" />  <img src="./Screenshots/8.png" width="800" height="500" title="Update and View Notes Screen" />
+<img src="./Screenshots/8.png" width="800" height="500" title="Update and View Notes Screen" />
 
 <img src="./Screenshots/9.png" width="800" height="500" title="Welcome Screen" />  <img src="./Screenshots/10.png" width="800" height="500" title="Home Screen" />
 
+
+### User Question Discussion 
+<img src="./Screenshots/7.png" width="800" height="500" title="Add Notes Screen" />  
 
 
 
